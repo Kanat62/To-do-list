@@ -168,6 +168,9 @@ li {
   outline: none;
   width: 20%;
 }
+.finished-list .input-text{
+  text-decoration:  line-through;
+}
 
 .hold {
   -webkit-box-shadow: none;
